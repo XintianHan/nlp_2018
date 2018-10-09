@@ -1,0 +1,739 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.10.1)  9 OCT 2018 17:58
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**hw1.tex
+(./hw1.tex
+LaTeX2e <2018-04-01> patch level 2
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen103
+)) (/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks17
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks18
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/palatino.sty
+Package: palatino 2005/04/12 PSNFSS-v9.2a (SPQR) 
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/03/24 v5.7 Page Geometry
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+) (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+) (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+) (/usr/local/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count100
+\Gm@cntv=\count101
+\c@Gm@tempcnt=\count102
+\Gm@bindingoffset=\dimen112
+\Gm@wd@mp=\dimen113
+\Gm@odd@mp=\dimen114
+\Gm@even@mp=\dimen115
+\Gm@layoutwidth=\dimen116
+\Gm@layoutheight=\dimen117
+\Gm@layouthoffset=\dimen118
+\Gm@layoutvoffset=\dimen119
+\Gm@dimlist=\toks22
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count103
+\lst@gtempboxa=\box28
+\lst@token=\toks23
+\lst@length=\count104
+\lst@currlwidth=\dimen120
+\lst@column=\count105
+\lst@pos=\count106
+\lst@lostspace=\dimen121
+\lst@width=\dimen122
+\lst@newlines=\count107
+\lst@lineno=\count108
+\lst@maxwidth=\dimen123
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count109
+\lst@skipnumbers=\count110
+\lst@framebox=\box29
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks24
+\thm@bodyfont=\toks25
+\thm@headfont=\toks26
+\thm@notefont=\toks27
+\thm@headpunct=\toks28
+\thm@preskip=\skip46
+\thm@postskip=\skip47
+\thm@headsep=\skip48
+\dth@everypar=\toks29
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/extpfeil/extpfeil.sty
+Package: extpfeil 2009/10/31 v0.4 Extensible Pfeile (PE)
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2018/01/08 v1.21 mathematical typesetting tools
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count111
+\calc@Bcount=\count112
+\calc@Adimen=\dimen124
+\calc@Bdimen=\dimen125
+\calc@Askip=\skip49
+\calc@Bskip=\skip50
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count113
+\calc@Cskip=\skip51
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count114
+\l_MT_multwidth_dim=\dimen126
+\origjot=\skip52
+\l_MT_shortvdotswithinadjustabove_dim=\dimen127
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen128
+\l_MT_above_intertext_sep=\dimen129
+\l_MT_below_intertext_sep=\dimen130
+\l_MT_above_shortintertext_sep=\dimen131
+\l_MT_below_shortintertext_sep=\dimen132
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/stmaryrd/stmaryrd.sty
+Package: stmaryrd 1994/03/03 St Mary's Road symbol package
+\symstmry=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
+(Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
+)) (/usr/local/texlive/2018/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/mathptmx.sty
+Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup7
+\symitalic=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen133
+\captionmargin@=\dimen134
+\captionwidth=\dimen135
+\caption@tempdima=\dimen136
+\caption@indent=\dimen137
+\caption@parindent=\dimen138
+\caption@hangindent=\dimen139
+)
+\c@ContinuedFloat=\count115
+Package caption Info: listings package is loaded.
+)
+\c@KVtest=\count116
+\sf@farskip=\skip53
+\sf@captopadj=\dimen140
+\sf@capskip=\skip54
+\sf@nearskip=\skip55
+\c@subfigure=\count117
+\c@subfigure@save=\count118
+\c@lofdepth=\count119
+\c@subtable=\count120
+\c@subtable@save=\count121
+\c@lotdepth=\count122
+\sf@top=\skip56
+\sf@bottom=\skip57
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/diagbox/diagbox.sty
+Package: diagbox 2016/12/28 v2.2 Making table heads with diagonal lines
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/pict2e/pict2e.sty
+Package: pict2e 2016/02/05 v0.3b Improved picture commands (HjG,RN,JT)
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/pict2e/pict2e.cfg
+File: pict2e.cfg 2016/02/05 v0.1u pict2e configuration for teTeX/TeXLive
+)
+Package pict2e Info: Driver file: pdftex.def on input line 119.
+Package pict2e Info: Driver file for pict2e: p2e-pdftex.def on input line 121.
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/pict2e/p2e-pdftex.def
+File: p2e-pdftex.def 2016/02/05 v0.1u Driver-dependant file (RN,HjG,JT)
+)
+\pIIe@GRAPH=\toks30
+\@arclen=\dimen143
+\@arcrad=\dimen144
+\@tempdimd=\dimen145
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/fp/fp.sty
+Package: fp 1995/04/02
+ `Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich (/usr/local/texlive/2018/texmf-dist/tex/latex/fp/defpattern.sty
+Package: defpattern 1994/10/12
+\actioncount=\count123
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/fp/fp-basic.sty
+Package: fp-basic 1996/05/13
+\FP@xs=\count124
+\FP@xia=\count125
+\FP@xib=\count126
+\FP@xfa=\count127
+\FP@xfb=\count128
+\FP@rega=\count129
+\FP@regb=\count130
+\FP@regs=\count131
+\FP@times=\count132
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/fp/fp-addons.sty
+Package: fp-addons 1995/03/15
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/fp/fp-snap.sty
+Package: fp-snap 1995/04/05
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/fp/fp-exp.sty
+Package: fp-exp 1995/04/03
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/fp/fp-trigo.sty
+Package: fp-trigo 1995/04/14
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/fp/fp-pas.sty
+Package: fp-pas 1994/08/29
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/fp/fp-random.sty
+Package: fp-random 1995/02/23
+\FPseed=\count133
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/fp/fp-eqn.sty
+Package: fp-eqn 1995/04/03
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/fp/fp-upn.sty
+Package: fp-upn 1996/10/21
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/fp/fp-eval.sty
+Package: fp-eval 1995/04/03
+)) (/usr/local/texlive/2018/texmf-dist/tex/latex/tools/array.sty
+Package: array 2018/04/07 v2.4g Tabular extension package (FMi)
+\col@sep=\dimen146
+\ar@mcellbox=\box30
+\extrarowheight=\dimen147
+\NC@list=\toks31
+\extratabsurround=\skip58
+\backup@length=\skip59
+\ar@cellbox=\box31
+)
+\diagbox@boxa=\box32
+\diagbox@boxb=\box33
+\diagbox@boxm=\box34
+\diagbox@wd=\dimen148
+\diagbox@ht=\dimen149
+\diagbox@insepl=\dimen150
+\diagbox@insepr=\dimen151
+\diagbox@outsepl=\dimen152
+\diagbox@outsepr=\dimen153
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+\c@proposition=\count134
+\c@definition=\count135
+\c@corollary=\count136
+\c@claim=\count137
+\c@theorem=\count138
+\c@lemma=\count139
+\c@fact=\count140
+ (/Users/xintianhan/Downloads/nlp/nlp_2018/hw1/.texpadtmp/hw1.aux)
+\openout1 = `hw1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 31.
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 426.79135pt, 85.35826pt)
+* v-part:(T,H,B)=(85.35826pt, 674.33032pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79135pt
+* \textheight=674.33032pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-23.91173pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@lstlisting=\count141
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+(/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count142
+\scratchdimen=\dimen154
+\scratchbox=\box35
+\nofMPsegments=\count143
+\nofMParguments=\count144
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count145
+\MPscratchDim=\dimen155
+\MPnumerator=\count146
+\makeMPintoPDFobject=\count147
+\everyMPtoPDFconversion=\toks33
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+ (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+ (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+ (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+))) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+ (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+ (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+ (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+))) (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 32.
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 32.
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 32.
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 32.
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for U+stmry on input line 32.
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/stmaryrd/Ustmry.fd)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 32.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 32.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 32.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 33.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 36.
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 36.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 53.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 53.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 53.
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+<1_T_5000_100_Adam_0001_F.pdf, id=1, 373.81534pt x 264.6255pt>
+File: 1_T_5000_100_Adam_0001_F.pdf Graphic file (type pdf)
+<use 1_T_5000_100_Adam_0001_F.pdf>
+Package pdftex.def Info: 1_T_5000_100_Adam_0001_F.pdf  used on input line 72.
+(pdftex.def)             Requested size: 85.35826pt x 60.42245pt.
+<1_T_10000_100_Adam_0001_F.pdf, id=2, 373.81534pt x 264.6255pt>
+File: 1_T_10000_100_Adam_0001_F.pdf Graphic file (type pdf)
+<use 1_T_10000_100_Adam_0001_F.pdf>
+Package pdftex.def Info: 1_T_10000_100_Adam_0001_F.pdf  used on input line 75.
+(pdftex.def)             Requested size: 85.35826pt x 60.42245pt.
+<1_T_20000_100_Adam_0001_F.pdf, id=3, 380.19856pt x 264.6255pt>
+File: 1_T_20000_100_Adam_0001_F.pdf Graphic file (type pdf)
+<use 1_T_20000_100_Adam_0001_F.pdf>
+Package pdftex.def Info: 1_T_20000_100_Adam_0001_F.pdf  used on input line 78.
+(pdftex.def)             Requested size: 85.35826pt x 59.40895pt.
+<1_T_5000_200_Adam_0001_F.pdf, id=4, 373.81534pt x 264.6255pt>
+File: 1_T_5000_200_Adam_0001_F.pdf Graphic file (type pdf)
+<use 1_T_5000_200_Adam_0001_F.pdf>
+Package pdftex.def Info: 1_T_5000_200_Adam_0001_F.pdf  used on input line 81.
+(pdftex.def)             Requested size: 85.35826pt x 60.42245pt.
+<1_T_10000_200_Adam_0001_F.pdf, id=5, 373.81534pt x 264.6255pt>
+File: 1_T_10000_200_Adam_0001_F.pdf Graphic file (type pdf)
+<use 1_T_10000_200_Adam_0001_F.pdf>
+Package pdftex.def Info: 1_T_10000_200_Adam_0001_F.pdf  used on input line 84.
+(pdftex.def)             Requested size: 85.35826pt x 60.42245pt.
+
+Overfull \hbox (24.99995pt too wide) in paragraph at lines 72--84
+ [][][][][][] 
+ []
+
+<1_T_20000_200_Adam_0001_F.pdf, id=6, 380.19856pt x 264.6255pt>
+File: 1_T_20000_200_Adam_0001_F.pdf Graphic file (type pdf)
+<use 1_T_20000_200_Adam_0001_F.pdf>
+Package pdftex.def Info: 1_T_20000_200_Adam_0001_F.pdf  used on input line 87.
+(pdftex.def)             Requested size: 85.35826pt x 59.40895pt.
+<1_T_5000_500_Adam_0001_F.pdf, id=7, 373.81534pt x 264.6255pt>
+File: 1_T_5000_500_Adam_0001_F.pdf Graphic file (type pdf)
+<use 1_T_5000_500_Adam_0001_F.pdf>
+Package pdftex.def Info: 1_T_5000_500_Adam_0001_F.pdf  used on input line 90.
+(pdftex.def)             Requested size: 85.35826pt x 60.42245pt.
+<1_T_10000_500_Adam_0001_F.pdf, id=8, 380.19856pt x 264.6255pt>
+File: 1_T_10000_500_Adam_0001_F.pdf Graphic file (type pdf)
+<use 1_T_10000_500_Adam_0001_F.pdf>
+Package pdftex.def Info: 1_T_10000_500_Adam_0001_F.pdf  used on input line 93.
+(pdftex.def)             Requested size: 85.35826pt x 59.40895pt.
+File: 1_T_20000_200_Adam_0001_F.pdf Graphic file (type pdf)
+<use 1_T_20000_200_Adam_0001_F.pdf>
+Package pdftex.def Info: 1_T_20000_200_Adam_0001_F.pdf  used on input line 96.
+(pdftex.def)             Requested size: 85.35826pt x 59.40895pt.
+File: 1_T_5000_200_Adam_0001_F.pdf Graphic file (type pdf)
+<use 1_T_5000_200_Adam_0001_F.pdf>
+Package pdftex.def Info: 1_T_5000_200_Adam_0001_F.pdf  used on input line 120.
+(pdftex.def)             Requested size: 85.35826pt x 60.42245pt.
+<2_T_5000_200_Adam_0001_F.pdf, id=9, 373.81534pt x 264.6255pt>
+File: 2_T_5000_200_Adam_0001_F.pdf Graphic file (type pdf)
+<use 2_T_5000_200_Adam_0001_F.pdf>
+Package pdftex.def Info: 2_T_5000_200_Adam_0001_F.pdf  used on input line 123.
+(pdftex.def)             Requested size: 85.35826pt x 60.42245pt.
+<2_F_5000_200_Adam_0001_F.pdf, id=10, 373.81534pt x 264.6255pt>
+File: 2_F_5000_200_Adam_0001_F.pdf Graphic file (type pdf)
+<use 2_F_5000_200_Adam_0001_F.pdf>
+Package pdftex.def Info: 2_F_5000_200_Adam_0001_F.pdf  used on input line 126.
+(pdftex.def)             Requested size: 85.35826pt x 60.42245pt.
+<3_T_5000_200_Adam_0001_F.pdf, id=11, 373.81534pt x 264.6255pt>
+File: 3_T_5000_200_Adam_0001_F.pdf Graphic file (type pdf)
+<use 3_T_5000_200_Adam_0001_F.pdf>
+Package pdftex.def Info: 3_T_5000_200_Adam_0001_F.pdf  used on input line 129.
+(pdftex.def)             Requested size: 85.35826pt x 60.42245pt.
+<3_F_5000_200_Adam_0001_F.pdf, id=12, 373.81534pt x 264.6255pt>
+File: 3_F_5000_200_Adam_0001_F.pdf Graphic file (type pdf)
+<use 3_F_5000_200_Adam_0001_F.pdf>
+Package pdftex.def Info: 3_F_5000_200_Adam_0001_F.pdf  used on input line 132.
+(pdftex.def)             Requested size: 85.35826pt x 60.42245pt.
+<4_T_5000_200_Adam_0001_F.pdf, id=13, 373.81534pt x 264.6255pt>
+File: 4_T_5000_200_Adam_0001_F.pdf Graphic file (type pdf)
+<use 4_T_5000_200_Adam_0001_F.pdf>
+Package pdftex.def Info: 4_T_5000_200_Adam_0001_F.pdf  used on input line 135.
+(pdftex.def)             Requested size: 85.35826pt x 60.42245pt.
+<4_F_5000_200_Adam_0001_F.pdf, id=14, 373.81534pt x 264.6255pt>
+File: 4_F_5000_200_Adam_0001_F.pdf Graphic file (type pdf)
+<use 4_F_5000_200_Adam_0001_F.pdf>
+Package pdftex.def Info: 4_F_5000_200_Adam_0001_F.pdf  used on input line 138.
+(pdftex.def)             Requested size: 85.35826pt x 60.42245pt.
+
+Overfull \hbox (40.35794pt too wide) in paragraph at lines 146--153
+ [][] 
+ []
+
+File: 2_F_5000_200_Adam_0001_F.pdf Graphic file (type pdf)
+<use 2_F_5000_200_Adam_0001_F.pdf>
+Package pdftex.def Info: 2_F_5000_200_Adam_0001_F.pdf  used on input line 160.
+(pdftex.def)             Requested size: 85.35826pt x 60.42245pt.
+<2_F_5000_200_Adam_0001_T.pdf, id=15, 373.81534pt x 264.6255pt>
+File: 2_F_5000_200_Adam_0001_T.pdf Graphic file (type pdf)
+<use 2_F_5000_200_Adam_0001_T.pdf>
+Package pdftex.def Info: 2_F_5000_200_Adam_0001_T.pdf  used on input line 163.
+(pdftex.def)             Requested size: 85.35826pt x 60.42245pt.
+<2_F_5000_200_SGD_0001_F.pdf, id=16, 373.81534pt x 264.40594pt>
+File: 2_F_5000_200_SGD_0001_F.pdf Graphic file (type pdf)
+<use 2_F_5000_200_SGD_0001_F.pdf>
+Package pdftex.def Info: 2_F_5000_200_SGD_0001_F.pdf  used on input line 166.
+(pdftex.def)             Requested size: 85.35826pt x 60.37231pt.
+<2_F_5000_200_SGD_0001_T.pdf, id=17, 373.81534pt x 264.40594pt>
+File: 2_F_5000_200_SGD_0001_T.pdf Graphic file (type pdf)
+<use 2_F_5000_200_SGD_0001_T.pdf>
+Package pdftex.def Info: 2_F_5000_200_SGD_0001_T.pdf  used on input line 169.
+(pdftex.def)             Requested size: 85.35826pt x 60.37231pt.
+<2_F_5000_200_Adam_001_F.pdf, id=18, 383.39801pt x 264.6255pt>
+File: 2_F_5000_200_Adam_001_F.pdf Graphic file (type pdf)
+<use 2_F_5000_200_Adam_001_F.pdf>
+Package pdftex.def Info: 2_F_5000_200_Adam_001_F.pdf  used on input line 172.
+(pdftex.def)             Requested size: 85.35826pt x 58.9123pt.
+<2_F_5000_200_Adam_001_T.pdf, id=19, 383.39801pt x 264.6255pt>
+File: 2_F_5000_200_Adam_001_T.pdf Graphic file (type pdf)
+<use 2_F_5000_200_Adam_001_T.pdf>
+Package pdftex.def Info: 2_F_5000_200_Adam_001_T.pdf  used on input line 175.
+(pdftex.def)             Requested size: 85.35826pt x 58.9123pt.
+<2_F_5000_200_SGD_001_F.pdf, id=20, 373.81534pt x 264.40594pt>
+File: 2_F_5000_200_SGD_001_F.pdf Graphic file (type pdf)
+<use 2_F_5000_200_SGD_001_F.pdf>
+Package pdftex.def Info: 2_F_5000_200_SGD_001_F.pdf  used on input line 178.
+(pdftex.def)             Requested size: 85.35826pt x 60.37231pt.
+<2_F_5000_200_SGD_001_T.pdf, id=21, 383.39801pt x 264.40594pt>
+File: 2_F_5000_200_SGD_001_T.pdf Graphic file (type pdf)
+<use 2_F_5000_200_SGD_001_T.pdf>
+Package pdftex.def Info: 2_F_5000_200_SGD_001_T.pdf  used on input line 181.
+(pdftex.def)             Requested size: 85.35826pt x 58.86342pt.
+<2_F_5000_200_Adam_01_F.pdf, id=22, 383.39801pt x 264.6255pt>
+File: 2_F_5000_200_Adam_01_F.pdf Graphic file (type pdf)
+<use 2_F_5000_200_Adam_01_F.pdf>
+Package pdftex.def Info: 2_F_5000_200_Adam_01_F.pdf  used on input line 184.
+(pdftex.def)             Requested size: 85.35826pt x 58.9123pt.
+<2_F_5000_200_Adam_01_T.pdf, id=23, 373.81534pt x 264.6255pt>
+File: 2_F_5000_200_Adam_01_T.pdf Graphic file (type pdf)
+<use 2_F_5000_200_Adam_01_T.pdf>
+Package pdftex.def Info: 2_F_5000_200_Adam_01_T.pdf  used on input line 187.
+(pdftex.def)             Requested size: 85.35826pt x 60.42245pt.
+<2_F_5000_200_SGD_01_F.pdf, id=24, 373.81534pt x 264.40594pt>
+File: 2_F_5000_200_SGD_01_F.pdf Graphic file (type pdf)
+<use 2_F_5000_200_SGD_01_F.pdf>
+Package pdftex.def Info: 2_F_5000_200_SGD_01_F.pdf  used on input line 190.
+(pdftex.def)             Requested size: 85.35826pt x 60.37231pt.
+<2_F_5000_200_SGD_01_T.pdf, id=25, 373.81534pt x 264.40594pt>
+File: 2_F_5000_200_SGD_01_T.pdf Graphic file (type pdf)
+<use 2_F_5000_200_SGD_01_T.pdf>
+Package pdftex.def Info: 2_F_5000_200_SGD_01_T.pdf  used on input line 193.
+(pdftex.def)             Requested size: 85.35826pt x 60.37231pt.
+[1
+
+{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2 <./1_T_5000_100_Adam_0001_F.pdf> <./1_T_10000_100_Adam_0001_F.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./1_T_10000_100_Adam_0001_F.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./1_T_20000_100_Adam_0001_F.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./1_T_20000_100_Adam_0001_F.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./1_T_5000_200_Adam_0001_F.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./1_T_5000_200_Adam_0001_F.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./1_T_10000_200_Adam_0001_F.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./1_T_10000_200_Adam_0001_F.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./1_T_20000_200_Adam_0001_F.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./1_T_20000_200_Adam_0001_F.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./1_T_5000_500_Adam_0001_F.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./1_T_5000_500_Adam_0001_F.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./1_T_10000_500_Adam_0001_F.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./1_T_10000_500_Adam_0001_F.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./2_T_5000_200_Adam_0001_F.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./2_T_5000_200_Adam_0001_F.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./2_F_5000_200_Adam_0001_F.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./2_F_5000_200_Adam_0001_F.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./3_T_5000_200_Adam_0001_F.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./3_T_5000_200_Adam_0001_F.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./3_F_5000_200_Adam_0001_F.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./3_F_5000_200_Adam_0001_F.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./4_T_5000_200_Adam_0001_F.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./4_T_5000_200_Adam_0001_F.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./4_F_5000_200_Adam_0001_F.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./4_F_5000_200_Adam_0001_F.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>] [3 <./2_F_5000_200_Adam_0001_T.pdf> <./2_F_5000_200_SGD_0001_F.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./2_F_5000_200_SGD_0001_F.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./2_F_5000_200_SGD_0001_T.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./2_F_5000_200_SGD_0001_T.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./2_F_5000_200_Adam_001_F.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./2_F_5000_200_Adam_001_F.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./2_F_5000_200_Adam_001_T.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./2_F_5000_200_Adam_001_T.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./2_F_5000_200_SGD_001_F.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./2_F_5000_200_SGD_001_F.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./2_F_5000_200_SGD_001_T.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./2_F_5000_200_SGD_001_T.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./2_F_5000_200_Adam_01_F.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./2_F_5000_200_Adam_01_F.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./2_F_5000_200_Adam_01_T.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./2_F_5000_200_Adam_01_T.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./2_F_5000_200_SGD_01_F.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./2_F_5000_200_SGD_01_F.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./2_F_5000_200_SGD_01_T.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./2_F_5000_200_SGD_01_T.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>] [4] (/Users/xintianhan/Downloads/nlp/nlp_2018/hw1/.texpadtmp/hw1.aux) ) 
+Here is how much of TeX's memory you used:
+ 7541 strings out of 492649
+ 112704 string characters out of 6129622
+ 212213 words of memory out of 5000000
+ 11223 multiletter control sequences out of 15000+600000
+ 36511 words of font info for 88 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 44i,10n,49p,856b,374s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
+Output written on /Users/xintianhan/Downloads/nlp/nlp_2018/hw1/.texpadtmp/hw1.pdf (4 pages, 284804 bytes).
+PDF statistics:
+ 772 PDF objects out of 1000 (max. 8388607)
+ 153 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 126 words of extra memory for PDF output out of 10000 (max. 10000000)
+
