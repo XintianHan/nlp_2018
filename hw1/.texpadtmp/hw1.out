@@ -1,0 +1,9 @@
+\BOOKMARK [1][-]{section.1}{Bag of N-Gram Document Classification}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Vary Vocabulary Size and Embedding Size, and Fix the Others}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Vary Ngram, and Fix the Others}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Vary Optimization and Fix the Others}{section.1}% 4
+\BOOKMARK [2][-]{subsection.1.4}{Best Hyperparameters and Test Accuracy}{section.1}% 5
+\BOOKMARK [2][-]{subsection.1.5}{List 3 Correct Predictions and 3 Incorrect Predictions}{section.1}% 6
+\BOOKMARK [1][-]{section.2}{Extra Points}{}% 7
+\BOOKMARK [2][-]{subsection.2.1}{Extra Hyperparamter Search}{section.2}% 8
+\BOOKMARK [2][-]{subsection.2.2}{Train 1-10 rating}{section.2}% 9

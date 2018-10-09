@@ -13,6 +13,7 @@
 \usepackage{mathptmx}
 \usepackage{subfig}
 \usepackage{graphicx}
+\usepackage{hyperref}
 \usepackage{diagbox}
 \usepackage{cite}
 \global\long\def\d{\text{d}}
@@ -50,7 +51,7 @@ We build a bag of n-grams model for predicting the sentiment of the movie review
 \item Whether or not you use linear annealing of learning rate (learning rate is reduced linearly over the course of training).	
 \end{itemize}
 \end{itemize}
-For n-grams, there are two strategies. One is using only n-gram; the other is using all the k-gram until n, i.e. 4-grams including 1,2,3,4-grams. We consider both two strategies. So there are 7 choices of n-grams. There are total $7\times 3 \times 3\times 2 \times 3 \times 2 = 756$ different combinations. We first perform the ablation study. We also did an enumerative study but it took too long time and did not finish in two days. We keep the partial results of learning curves and training output in the folder and the notebook $\texttt{enumerative\_search.iynb}$. Unfortunately, we could not finish the enumerative search. The main work in this report is based on ablation study in $\texttt{hw1.ipynb}$.
+For n-grams, there are two strategies. One is using only n-gram; the other is using all the k-gram until n, i.e. 4-grams including 1,2,3,4-grams. We consider both two strategies. So there are 7 choices of n-grams. We denote all\_ngram to be indicator of using all of the n-grams. There are total $7\times 3 \times 3\times 2 \times 3 \times 2 = 756$ different combinations. We first perform the ablation study. We also did an enumerative study but it took too long time and did not finish in two days. We keep the partial results of learning curves and training output in the folder and the notebook $\texttt{enumerative\_search.iynb}$. Unfortunately, we could not finish the enumerative search. The main work in this report is based on ablation study in $\texttt{hw1.ipynb}$. The github link is \href{https://github.com/XintianHan/nlp_2018}{https://github.com/XintianHan/nlp\_2018}.
 \subsection{Vary Vocabulary Size and Embedding Size,  and Fix the Others}
 We use n-gram = unigram, Adam, fixed-learning rate = 0.001, test vocabulary size and embedding size.
 The accuracy on the validation set is shown in Table \ref{tab: vocab_emb}.
@@ -193,6 +194,8 @@ We show the validation accuracies in Table \ref{tab: optim}. It turns out that o
 }
 \caption{\label{fig:optim}Vary Optimization and Fix the Others Learning Curves.}
 \end{figure}
+\subsection{Best Hyperparameters and Test Accuracy}
+After ablation hyperparameters search, we have the best hyperparameters combination. They are \{ n=2, all\_ngram = False, max\_vocab\_size = 5000, emd\_size = 200, optimizer = Adam, lr = 0.001, lr\_decay = False\}. The test accuracy we get is 84.604 based on our best hyperparameters.
 \subsection{List 3 Correct Predictions and 3 Incorrect Predictions}
 Correct Predictions. They are all classified as negative.
 \begin{itemize}
