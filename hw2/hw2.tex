@@ -39,7 +39,7 @@ We build CNN and RNN encoders together with a fully-connected network to solve t
 \item Different ways of interacting the two encoded sentences \texttt{is\_concat}: concatenation and element-wise multiplication.
 \item Regularization: weight decay \texttt{is\_wd} and dropout \texttt{is\_dropout}.
 \end{itemize}
-Some fixed hyperparameters are optimizer (ADAM), learning rate (initial learning rate = 0.0001 and the $i$-th epoch has the learning rate initial learning rate/ $i$), fixed hidden dimension \texttt{hid\_dim}= 300 in fully-connected network. We use max sentence length 50 which is greater than 95\% quantile of the whole sentence lengths. All networks we trained for 10 epochs.
+Some fixed hyperparameters are optimizer (ADAM), learning rate (initial learning rate = 0.0001 and the $i$-th epoch has the learning rate initial learning rate/ $i$), fixed hidden dimension \texttt{hid\_dim}= 300 in fully-connected network. We use max sentence length 50 which is greater than 95\% quantile of the whole sentence lengths. All networks we trained for 10 epochs. The github link for this homework is \href{https://github.com/XintianHan/nlp_2018}{https://github.com/XintianHan/nlp\_2018}
 \subsection{Vary Hidden Sizes}
 We first use dropout, no weight decay, element-wise multiplication and kernel size 3. We vary hidden size for both RNN and CNN. We also choose the best model that has the best validation accuracies during each epoch of training. The results are in Table \ref{tab: hid} and Figure \ref{fig: hid}. The title of the figure for train and validation loss and accuracy curves are: \\
 \noindent`loss\_' and `acc\_' plus `\texttt{encoder\_hidden\_size\_hid\_dim\_is\_concat\_kernel\_size\_is\_wd\_is\_dropout}'. \\

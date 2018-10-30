@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.10.1)  30 OCT 2018 17:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.10.1)  30 OCT 2018 17:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -593,32 +593,32 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 42.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 42.
-<acc_cnn_300_300_False_3_False_True.pdf, id=42, 396.21901pt x 313.48003pt>
+<acc_cnn_300_300_False_3_False_True.pdf, id=43, 396.21901pt x 313.48003pt>
 File: acc_cnn_300_300_False_3_False_True.pdf Graphic file (type pdf)
 <use acc_cnn_300_300_False_3_False_True.pdf>
 Package pdftex.def Info: acc_cnn_300_300_False_3_False_True.pdf  used on input line 62.
 (pdftex.def)             Requested size: 71.13188pt x 56.27568pt.
-<acc_cnn_400_300_False_3_False_True.pdf, id=43, 396.21901pt x 313.48003pt>
+<acc_cnn_400_300_False_3_False_True.pdf, id=44, 396.21901pt x 313.48003pt>
 File: acc_cnn_400_300_False_3_False_True.pdf Graphic file (type pdf)
 <use acc_cnn_400_300_False_3_False_True.pdf>
 Package pdftex.def Info: acc_cnn_400_300_False_3_False_True.pdf  used on input line 65.
 (pdftex.def)             Requested size: 71.13188pt x 56.27568pt.
-<acc_cnn_500_300_False_3_False_True.pdf, id=44, 396.21901pt x 313.48003pt>
+<acc_cnn_500_300_False_3_False_True.pdf, id=45, 396.21901pt x 313.48003pt>
 File: acc_cnn_500_300_False_3_False_True.pdf Graphic file (type pdf)
 <use acc_cnn_500_300_False_3_False_True.pdf>
 Package pdftex.def Info: acc_cnn_500_300_False_3_False_True.pdf  used on input line 68.
 (pdftex.def)             Requested size: 71.13188pt x 56.27568pt.
-<acc_rnn_300_300_False_3_False_True.pdf, id=45, 396.21901pt x 313.48003pt>
+<acc_rnn_300_300_False_3_False_True.pdf, id=46, 396.21901pt x 313.48003pt>
 File: acc_rnn_300_300_False_3_False_True.pdf Graphic file (type pdf)
 <use acc_rnn_300_300_False_3_False_True.pdf>
 Package pdftex.def Info: acc_rnn_300_300_False_3_False_True.pdf  used on input line 71.
 (pdftex.def)             Requested size: 71.13188pt x 56.27568pt.
-<acc_rnn_400_300_False_3_False_True.pdf, id=46, 396.21901pt x 313.48003pt>
+<acc_rnn_400_300_False_3_False_True.pdf, id=47, 396.21901pt x 313.48003pt>
 File: acc_rnn_400_300_False_3_False_True.pdf Graphic file (type pdf)
 <use acc_rnn_400_300_False_3_False_True.pdf>
 Package pdftex.def Info: acc_rnn_400_300_False_3_False_True.pdf  used on input line 74.
 (pdftex.def)             Requested size: 71.13188pt x 56.27568pt.
-<acc_rnn_500_300_False_3_False_True.pdf, id=47, 396.21901pt x 313.48003pt>
+<acc_rnn_500_300_False_3_False_True.pdf, id=48, 396.21901pt x 313.48003pt>
 File: acc_rnn_500_300_False_3_False_True.pdf Graphic file (type pdf)
 <use acc_rnn_500_300_False_3_False_True.pdf>
 Package pdftex.def Info: acc_rnn_500_300_False_3_False_True.pdf  used on input line 77.
@@ -628,32 +628,32 @@ Overfull \hbox (1.54718pt too wide) in paragraph at lines 62--77
  [][][][][][][][][][][][] 
  []
 
-<loss_cnn_300_300_False_3_False_True.pdf, id=48, 418.56813pt x 313.48003pt>
+<loss_cnn_300_300_False_3_False_True.pdf, id=49, 418.56813pt x 313.48003pt>
 File: loss_cnn_300_300_False_3_False_True.pdf Graphic file (type pdf)
 <use loss_cnn_300_300_False_3_False_True.pdf>
 Package pdftex.def Info: loss_cnn_300_300_False_3_False_True.pdf  used on input line 80.
 (pdftex.def)             Requested size: 71.13188pt x 53.27176pt.
-<loss_cnn_400_300_False_3_False_True.pdf, id=49, 418.56813pt x 313.48003pt>
+<loss_cnn_400_300_False_3_False_True.pdf, id=50, 418.56813pt x 313.48003pt>
 File: loss_cnn_400_300_False_3_False_True.pdf Graphic file (type pdf)
 <use loss_cnn_400_300_False_3_False_True.pdf>
 Package pdftex.def Info: loss_cnn_400_300_False_3_False_True.pdf  used on input line 83.
 (pdftex.def)             Requested size: 71.13188pt x 53.27176pt.
-<loss_cnn_500_300_False_3_False_True.pdf, id=50, 418.56813pt x 313.48003pt>
+<loss_cnn_500_300_False_3_False_True.pdf, id=51, 418.56813pt x 313.48003pt>
 File: loss_cnn_500_300_False_3_False_True.pdf Graphic file (type pdf)
 <use loss_cnn_500_300_False_3_False_True.pdf>
 Package pdftex.def Info: loss_cnn_500_300_False_3_False_True.pdf  used on input line 86.
 (pdftex.def)             Requested size: 71.13188pt x 53.27176pt.
-<loss_rnn_300_300_False_3_False_True.pdf, id=51, 412.1849pt x 313.48003pt>
+<loss_rnn_300_300_False_3_False_True.pdf, id=52, 412.1849pt x 313.48003pt>
 File: loss_rnn_300_300_False_3_False_True.pdf Graphic file (type pdf)
 <use loss_rnn_300_300_False_3_False_True.pdf>
 Package pdftex.def Info: loss_rnn_300_300_False_3_False_True.pdf  used on input line 89.
 (pdftex.def)             Requested size: 71.13188pt x 54.09448pt.
-<loss_rnn_400_300_False_3_False_True.pdf, id=52, 412.1849pt x 313.48003pt>
+<loss_rnn_400_300_False_3_False_True.pdf, id=53, 412.1849pt x 313.48003pt>
 File: loss_rnn_400_300_False_3_False_True.pdf Graphic file (type pdf)
 <use loss_rnn_400_300_False_3_False_True.pdf>
 Package pdftex.def Info: loss_rnn_400_300_False_3_False_True.pdf  used on input line 92.
 (pdftex.def)             Requested size: 71.13188pt x 54.09448pt.
-<loss_rnn_500_300_False_3_False_True.pdf, id=53, 418.56813pt x 313.48003pt>
+<loss_rnn_500_300_False_3_False_True.pdf, id=54, 418.56813pt x 313.48003pt>
 File: loss_rnn_500_300_False_3_False_True.pdf Graphic file (type pdf)
 <use loss_rnn_500_300_False_3_False_True.pdf>
 Package pdftex.def Info: loss_rnn_500_300_False_3_False_True.pdf  used on input line 95.
@@ -676,12 +676,12 @@ File: loss_cnn_300_300_False_3_False_True.pdf Graphic file (type pdf)
 <use loss_cnn_300_300_False_3_False_True.pdf>
 Package pdftex.def Info: loss_cnn_300_300_False_3_False_True.pdf  used on input line 118.
 (pdftex.def)             Requested size: 71.13188pt x 53.27176pt.
-<acc_cnn_300_300_False_5_False_True.pdf, id=56, 396.21901pt x 313.48003pt>
+<acc_cnn_300_300_False_5_False_True.pdf, id=57, 396.21901pt x 313.48003pt>
 File: acc_cnn_300_300_False_5_False_True.pdf Graphic file (type pdf)
 <use acc_cnn_300_300_False_5_False_True.pdf>
 Package pdftex.def Info: acc_cnn_300_300_False_5_False_True.pdf  used on input line 121.
 (pdftex.def)             Requested size: 71.13188pt x 56.27568pt.
-<loss_cnn_300_300_False_5_False_True.pdf, id=57, 418.56813pt x 313.48003pt>
+<loss_cnn_300_300_False_5_False_True.pdf, id=58, 418.56813pt x 313.48003pt>
 File: loss_cnn_300_300_False_5_False_True.pdf Graphic file (type pdf)
 <use loss_cnn_300_300_False_5_False_True.pdf>
 Package pdftex.def Info: loss_cnn_300_300_False_5_False_True.pdf  used on input line 124.
@@ -701,12 +701,12 @@ File: loss_cnn_300_300_False_3_False_True.pdf Graphic file (type pdf)
 <use loss_cnn_300_300_False_3_False_True.pdf>
 Package pdftex.def Info: loss_cnn_300_300_False_3_False_True.pdf  used on input line 148.
 (pdftex.def)             Requested size: 71.13188pt x 53.27176pt.
-<acc_cnn_300_300_True_3_False_True.pdf, id=72, 396.21901pt x 313.48003pt>
+<acc_cnn_300_300_True_3_False_True.pdf, id=73, 396.21901pt x 313.48003pt>
 File: acc_cnn_300_300_True_3_False_True.pdf Graphic file (type pdf)
 <use acc_cnn_300_300_True_3_False_True.pdf>
 Package pdftex.def Info: acc_cnn_300_300_True_3_False_True.pdf  used on input line 151.
 (pdftex.def)             Requested size: 71.13188pt x 56.27568pt.
-<loss_cnn_300_300_True_3_False_True.pdf, id=73, 418.56813pt x 313.48003pt>
+<loss_cnn_300_300_True_3_False_True.pdf, id=74, 418.56813pt x 313.48003pt>
 File: loss_cnn_300_300_True_3_False_True.pdf Graphic file (type pdf)
 <use loss_cnn_300_300_True_3_False_True.pdf>
 Package pdftex.def Info: loss_cnn_300_300_True_3_False_True.pdf  used on input line 154.
@@ -719,12 +719,12 @@ File: loss_rnn_400_300_False_3_False_True.pdf Graphic file (type pdf)
 <use loss_rnn_400_300_False_3_False_True.pdf>
 Package pdftex.def Info: loss_rnn_400_300_False_3_False_True.pdf  used on input line 160.
 (pdftex.def)             Requested size: 71.13188pt x 54.09448pt.
-<acc_rnn_400_300_True_3_False_True.pdf, id=74, 396.21901pt x 313.48003pt>
+<acc_rnn_400_300_True_3_False_True.pdf, id=75, 396.21901pt x 313.48003pt>
 File: acc_rnn_400_300_True_3_False_True.pdf Graphic file (type pdf)
 <use acc_rnn_400_300_True_3_False_True.pdf>
 Package pdftex.def Info: acc_rnn_400_300_True_3_False_True.pdf  used on input line 163.
 (pdftex.def)             Requested size: 71.13188pt x 56.27568pt.
-<loss_rnn_400_300_True_3_False_True.pdf, id=75, 412.1849pt x 313.48003pt>
+<loss_rnn_400_300_True_3_False_True.pdf, id=76, 412.1849pt x 313.48003pt>
 File: loss_rnn_400_300_True_3_False_True.pdf Graphic file (type pdf)
 <use loss_rnn_400_300_True_3_False_True.pdf>
 Package pdftex.def Info: loss_rnn_400_300_True_3_False_True.pdf  used on input line 166.
@@ -742,22 +742,22 @@ File: loss_cnn_300_300_True_3_False_True.pdf Graphic file (type pdf)
 <use loss_cnn_300_300_True_3_False_True.pdf>
 Package pdftex.def Info: loss_cnn_300_300_True_3_False_True.pdf  used on input line 190.
 (pdftex.def)             Requested size: 71.13188pt x 53.27176pt.
-<acc_cnn_300_300_True_3_False_False.pdf, id=78, 396.21901pt x 313.48003pt>
+<acc_cnn_300_300_True_3_False_False.pdf, id=79, 396.21901pt x 313.48003pt>
 File: acc_cnn_300_300_True_3_False_False.pdf Graphic file (type pdf)
 <use acc_cnn_300_300_True_3_False_False.pdf>
 Package pdftex.def Info: acc_cnn_300_300_True_3_False_False.pdf  used on input line 193.
 (pdftex.def)             Requested size: 71.13188pt x 56.27568pt.
-<loss_cnn_300_300_True_3_False_False.pdf, id=79, 418.56813pt x 313.48003pt>
+<loss_cnn_300_300_True_3_False_False.pdf, id=80, 418.56813pt x 313.48003pt>
 File: loss_cnn_300_300_True_3_False_False.pdf Graphic file (type pdf)
 <use loss_cnn_300_300_True_3_False_False.pdf>
 Package pdftex.def Info: loss_cnn_300_300_True_3_False_False.pdf  used on input line 196.
 (pdftex.def)             Requested size: 71.13188pt x 53.27176pt.
-<acc_cnn_300_300_True_3_True_False.pdf, id=80, 396.21901pt x 313.48003pt>
+<acc_cnn_300_300_True_3_True_False.pdf, id=81, 396.21901pt x 313.48003pt>
 File: acc_cnn_300_300_True_3_True_False.pdf Graphic file (type pdf)
 <use acc_cnn_300_300_True_3_True_False.pdf>
 Package pdftex.def Info: acc_cnn_300_300_True_3_True_False.pdf  used on input line 199.
 (pdftex.def)             Requested size: 71.13188pt x 56.27568pt.
-<loss_cnn_300_300_True_3_True_False.pdf, id=81, 418.56813pt x 313.48003pt>
+<loss_cnn_300_300_True_3_True_False.pdf, id=82, 418.56813pt x 313.48003pt>
 File: loss_cnn_300_300_True_3_True_False.pdf Graphic file (type pdf)
 <use loss_cnn_300_300_True_3_True_False.pdf>
 Package pdftex.def Info: loss_cnn_300_300_True_3_True_False.pdf  used on input line 202.
@@ -767,12 +767,12 @@ Overfull \hbox (1.54718pt too wide) in paragraph at lines 187--202
  [][][][][][][][][][][][] 
  []
 
-<acc_cnn_300_300_True_3_True_True.pdf, id=82, 396.21901pt x 313.26045pt>
+<acc_cnn_300_300_True_3_True_True.pdf, id=83, 396.21901pt x 313.26045pt>
 File: acc_cnn_300_300_True_3_True_True.pdf Graphic file (type pdf)
 <use acc_cnn_300_300_True_3_True_True.pdf>
 Package pdftex.def Info: acc_cnn_300_300_True_3_True_True.pdf  used on input line 205.
 (pdftex.def)             Requested size: 71.13188pt x 56.23627pt.
-<loss_cnn_300_300_True_3_True_True.pdf, id=83, 418.56813pt x 313.48003pt>
+<loss_cnn_300_300_True_3_True_True.pdf, id=84, 418.56813pt x 313.48003pt>
 File: loss_cnn_300_300_True_3_True_True.pdf Graphic file (type pdf)
 <use loss_cnn_300_300_True_3_True_True.pdf>
 Package pdftex.def Info: loss_cnn_300_300_True_3_True_True.pdf  used on input line 208.
@@ -785,12 +785,12 @@ File: loss_rnn_400_300_False_3_False_True.pdf Graphic file (type pdf)
 <use loss_rnn_400_300_False_3_False_True.pdf>
 Package pdftex.def Info: loss_rnn_400_300_False_3_False_True.pdf  used on input line 214.
 (pdftex.def)             Requested size: 71.13188pt x 54.09448pt.
-<acc_rnn_400_300_False_3_False_False.pdf, id=84, 396.21901pt x 313.48003pt>
+<acc_rnn_400_300_False_3_False_False.pdf, id=85, 396.21901pt x 313.48003pt>
 File: acc_rnn_400_300_False_3_False_False.pdf Graphic file (type pdf)
 <use acc_rnn_400_300_False_3_False_False.pdf>
 Package pdftex.def Info: acc_rnn_400_300_False_3_False_False.pdf  used on input line 217.
 (pdftex.def)             Requested size: 71.13188pt x 56.27568pt.
-<loss_rnn_400_300_False_3_False_False.pdf, id=85, 418.56813pt x 313.48003pt>
+<loss_rnn_400_300_False_3_False_False.pdf, id=86, 418.56813pt x 313.48003pt>
 File: loss_rnn_400_300_False_3_False_False.pdf Graphic file (type pdf)
 <use loss_rnn_400_300_False_3_False_False.pdf>
 Package pdftex.def Info: loss_rnn_400_300_False_3_False_False.pdf  used on input line 220.
@@ -800,22 +800,22 @@ Overfull \hbox (1.54718pt too wide) in paragraph at lines 205--220
  [][][][][][][][][][][][] 
  []
 
-<acc_rnn_400_300_False_3_True_False.pdf, id=86, 405.80168pt x 313.48003pt>
+<acc_rnn_400_300_False_3_True_False.pdf, id=87, 405.80168pt x 313.48003pt>
 File: acc_rnn_400_300_False_3_True_False.pdf Graphic file (type pdf)
 <use acc_rnn_400_300_False_3_True_False.pdf>
 Package pdftex.def Info: acc_rnn_400_300_False_3_True_False.pdf  used on input line 223.
 (pdftex.def)             Requested size: 71.13188pt x 54.94592pt.
-<loss_rnn_400_300_False_3_True_False.pdf, id=87, 424.95135pt x 313.48003pt>
+<loss_rnn_400_300_False_3_True_False.pdf, id=88, 424.95135pt x 313.48003pt>
 File: loss_rnn_400_300_False_3_True_False.pdf Graphic file (type pdf)
 <use loss_rnn_400_300_False_3_True_False.pdf>
 Package pdftex.def Info: loss_rnn_400_300_False_3_True_False.pdf  used on input line 226.
 (pdftex.def)             Requested size: 71.13188pt x 52.47295pt.
-<acc_rnn_400_300_False_3_True_True.pdf, id=88, 405.80168pt x 313.48003pt>
+<acc_rnn_400_300_False_3_True_True.pdf, id=89, 405.80168pt x 313.48003pt>
 File: acc_rnn_400_300_False_3_True_True.pdf Graphic file (type pdf)
 <use acc_rnn_400_300_False_3_True_True.pdf>
 Package pdftex.def Info: acc_rnn_400_300_False_3_True_True.pdf  used on input line 229.
 (pdftex.def)             Requested size: 71.13188pt x 54.94592pt.
-<loss_rnn_400_300_False_3_True_True.pdf, id=89, 424.95135pt x 313.48003pt>
+<loss_rnn_400_300_False_3_True_True.pdf, id=90, 424.95135pt x 313.48003pt>
 File: loss_rnn_400_300_False_3_True_True.pdf Graphic file (type pdf)
 <use loss_rnn_400_300_False_3_True_True.pdf>
 Package pdftex.def Info: loss_rnn_400_300_False_3_True_True.pdf  used on input line 232.
@@ -915,6 +915,10 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 326.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 326.
 Package rerunfilecheck Info: File `hw2.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 326.
  ) 
 Here is how much of TeX's memory you used:
@@ -926,10 +930,10 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  44i,10n,49p,905b,397s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on /Users/xintianhan/Downloads/nlp/nlp_2018/hw2/.texpadtmp/hw2.pdf (5 pages, 374838 bytes).
+Output written on /Users/xintianhan/Downloads/nlp/nlp_2018/hw2/.texpadtmp/hw2.pdf (5 pages, 375061 bytes).
 PDF statistics:
- 1043 PDF objects out of 1200 (max. 8388607)
- 299 compressed objects within 3 object streams
+ 1044 PDF objects out of 1200 (max. 8388607)
+ 300 compressed objects within 3 object streams
  65 named destinations out of 1000 (max. 500000)
  223 words of extra memory for PDF output out of 10000 (max. 10000000)
 
