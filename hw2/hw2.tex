@@ -273,7 +273,7 @@ number of parameters & 722103 & 722103 & 722103 &722103 & 1806303 & 1806303 & 18
 %\caption{\label{fig:optim}Vary Optimization and Fix the Others Learning Curves.}
 %\end{figure}
 \subsection{Best Hyperparameters and Test Accuracy}
-After ablation hyperparameters search, we have the best hyperparameters combination for both CNN and RNN. They are:
+After ablation hyperparameters search, we have the best hyperparameters combination for both CNN and RNN. CNN has lower number of trained parameters but has lower accuracy. They are:
 \begin{itemize}
 \item \textbf{CNN}	\texttt{hidden\_size} = 300, \texttt{is\_concat} = True, \texttt{kernel\_size} = 3, \texttt{is\_wd} = False, \texttt{is\_dropout} = False. \textbf{Validation Accuracy: 65.0}  
 \item \textbf{RNN}	\texttt{hidden\_size} = 400, \texttt{is\_concat} = False,  \texttt{is\_wd} = False, \texttt{is\_dropout} = True. \textbf{Validation Accuracy: 73.9}  
