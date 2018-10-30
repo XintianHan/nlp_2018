@@ -1,0 +1,9 @@
+\BOOKMARK [1][-]{section.1}{SNLI Classification}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Vary Hidden Sizes}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Vary Kernel Size}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Concatenation or Element-wise Multiplication}{section.1}% 4
+\BOOKMARK [2][-]{subsection.1.4}{Vary Regularizations}{section.1}% 5
+\BOOKMARK [2][-]{subsection.1.5}{Best Hyperparameters and Test Accuracy}{section.1}% 6
+\BOOKMARK [2][-]{subsection.1.6}{List 3 Correct Predictions and 3 Incorrect Predictions}{section.1}% 7
+\BOOKMARK [2][-]{subsection.1.7}{Evaluating on MultiNLI}{section.1}% 8
+\BOOKMARK [1][-]{section.2}{Bonus: Fine tune on new data set}{}% 9
